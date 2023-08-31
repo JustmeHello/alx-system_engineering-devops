@@ -1,0 +1,2 @@
+#!/bin/bash
+chown new_user:new_group *
