@@ -1,2 +1,2 @@
 #!/bin/bash
-chown new_user:new_group *
+chown vincent:staff *
